@@ -27,8 +27,8 @@ export default function Page() {
               </svg>
             </a>
 
-            <h2 className="mt-6 text-2xl font-bold text-white sm:text-3xl md:text-4xl">
-              Hey! I am Ranga 🦑
+            <h2 className="mt-6 text-2xl font-bold text-blue-300 sm:text-3xl md:text-4xl">
+              AI-MOCK-INTERVIEW PLATFORM
             </h2>
 
             <p className="mt-4 leading-relaxed text-white/90">
