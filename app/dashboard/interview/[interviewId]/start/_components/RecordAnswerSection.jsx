@@ -121,12 +121,12 @@ function RecordAnswerSection({
           "Record Answer"
         )}
       </Button>
-      <Button
+      {/* <Button
         onClick={() => console.log(userAnswer)}
         className=" bg-gray-500 text-white"
       >
         Show user answer
-      </Button>
+      </Button> */}
     </div>
   );
 }
