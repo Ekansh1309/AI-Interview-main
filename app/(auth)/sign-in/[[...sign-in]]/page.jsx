@@ -34,7 +34,7 @@ export default function Page() {
             <p className="mt-4 leading-relaxed text-white/90">
               AI-powered mock interview taker, designed to simulate real-world
               interview scenarios and provide personalized feedback. Elevate
-              your preparation and confidence with Ranga, ensuring you're ready
+              your preparation and confidence with Ekansh, ensuring you're ready
               to impress in your next big interview.
             </p>
           </div>
@@ -62,13 +62,13 @@ export default function Page() {
               </a>
 
               <h1 className="mt-2 text-2xl font-bold text-gray-900 sm:text-3xl md:text-4xl">
-                Hey! I am Ranga 🦑
+                Hey! I am Ekansh
               </h1>
 
               <p className="mt-4 leading-relaxed text-gray-500">
                 AI-powered mock interview taker, designed to simulate real-world
                 interview scenarios and provide personalized feedback. Elevate
-                your preparation and confidence with Ranga, ensuring you're
+                your preparation and confidence with Ekansh, ensuring you're
                 ready to impress in your next big interview.
               </p>
             </div>
